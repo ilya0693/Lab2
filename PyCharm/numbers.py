@@ -8,4 +8,6 @@ F = c+d
 
 G = E/F
 
-print("sum_a+b: %.2f,\n sum_c+d: %.2f,\n division: %.2f" % (E, F, G))
+print("sum_a+b: %.2f,\n"
+      "sum_c+d: %.2f,\n"
+      "division: %.2f" % (E, F, G))
